@@ -1,2 +1,2 @@
-# Python_IBM
-Python tests and exercises from IBM courses.
+# Python_IBM_Course
+Python IBM Course
